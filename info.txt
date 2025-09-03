@@ -1,0 +1,10 @@
+### Sở thích
+- Thích nghe nhạc, thể thao, và lập trình
+
+
+### Kỹ Năng
+- **Frontend**: React, TypeScript, JavaScript, HTML5, CSS3
+- **UI Framework**: TailwindCSS, Bootstrap, Material UI
+- **Công Cụ**: Git, VS Code, Figma, Adobe XD
+- **Testing**: Jest, React Testing Library
+- **Khác**: RESTful API, GraphQL, Responsive Design, PWA

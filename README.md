@@ -43,7 +43,3 @@ Thiết kế và xây dựng blog cá nhân với CMS tùy chỉnh, tối ưu h�
 - **LinkedIn**: [linkedin.com/in/huydien23](https://linkedin.com/in/huydien23)
 - **GitHub**: [github.com/huydien23](https://github.com/huydien23)
 - **Website**: [diendev.netlify.app](https://diendev.netlify.app)
-
-## Giấy Phép
-
-[MIT License](LICENSE)
