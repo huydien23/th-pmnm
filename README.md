@@ -21,6 +21,7 @@ Xin chào! Tôi là Nguyễn Huy Điền một Lập Trình Viên Frontend với
 
 ### Kỹ Năng
 - **Frontend**: React, TypeScript, JavaScript, HTML5, CSS3
+- **Backend**: C#
 - **UI Framework**: TailwindCSS, Bootstrap, Material UI
 - **Công Cụ**: Git, VS Code, Figma, Adobe XD
 - **Testing**: Jest, React Testing Library
